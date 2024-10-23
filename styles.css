@@ -1,0 +1,36 @@
+#img-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#img-div #image{
+  height: auto;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+
+#title {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#img-caption {
+  margin-top: 10px;
+  margin-bottom: -5px;
+}
+
+body {
+  font-family: Arial;
+}
+
+p {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
